@@ -2,7 +2,7 @@
 
 My name is Paulo (AKA: TheS1lentArr0w) and I am fully committed to developing my Software Engineer career.
 
-I am a graduate with an MEng in Chemical Engineering from the University of Manchester.
+I am a graduate with an MEng (Hons) in Chemical Engineering from the University of Manchester.
 
 <!--
 **TheS1lentArr0w/TheS1lentArr0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +30,9 @@ Python from [Udemy](https://www.udemy.com)'s course: [2021 Complete Python Bootc
 
 * Beginner to intermediate understanding of MATLAB
   * Developed through University modules.
+
+## Past Python Projects
+
+<!-- Put in Udemy Milestone projects
+Maybe look into uploading code to GitHub
+-->
