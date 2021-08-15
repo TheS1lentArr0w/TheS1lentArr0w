@@ -33,6 +33,9 @@ Python from [Udemy](https://www.udemy.com)'s course: [2021 Complete Python Bootc
 
 ## Past Python Projects
 
+* Milestone Project 1 - [Tic-Tac-Toe](https://github.com/TheS1lentArr0w/Milestone-Project-1) game.
+* Milestone Project 2 - [BlackJack](https://github.com/TheS1lentArr0w/Milestone-Project-2) game.
+
 <!-- Put in Udemy Milestone projects
 Maybe look into uploading code to GitHub
 -->
