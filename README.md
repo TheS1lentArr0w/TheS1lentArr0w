@@ -30,7 +30,7 @@ The MERN Full Stack from [Full Stack Open](https://fullstackopen.com/en/). This 
 * Express
 * MongoDB
 
-This is my first exposure to the full stack. The course is also developing my Git and GitHub proficiency as the exercises are submitted through repositories ([My submissions](https://github.com/TheS1lentArr0w/full_stack_open)). 
+This is my first exposure to the full stack. The course is also developing my Git and GitHub proficiency as the exercises are submitted through repositories ([my submissions](https://github.com/TheS1lentArr0w/full_stack_open)). 
 
 ## My programming skills
 
