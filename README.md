@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ## I'm currently learning ...
 
+----
+
 The MERN Full Stack from [Full Stack Open](https://fullstackopen.com/en/). This includes:
 * HTML
 * CSS
@@ -31,6 +33,10 @@ The MERN Full Stack from [Full Stack Open](https://fullstackopen.com/en/). This 
 * MongoDB
 
 This is my first exposure to the full stack. The course is also developing my Git and GitHub proficiency as the exercises are submitted through repositories ([my submissions](https://github.com/TheS1lentArr0w/full_stack_open)). 
+
+----
+
+I have also embarked on [The Complete 2021 PHP Full Stack Web Developer Bootcamp](https://www.udemy.com/course/the-complete-php-full-stack-web-developer-bootcamp/learn/lecture/15716836?start=0#overview). This is to give me insight on the full stack from a PHP side.
 
 ## My programming skills
 
