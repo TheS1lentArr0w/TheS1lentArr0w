@@ -38,6 +38,8 @@ This is my first exposure to the full stack. The course is also developing my Gi
 
 I have also embarked on [The Complete 2021 PHP Full Stack Web Developer Bootcamp](https://www.udemy.com/course/the-complete-php-full-stack-web-developer-bootcamp/learn/lecture/15716836?start=0#overview). This is to give me insight on the full stack from a PHP side.
 
+----
+
 ## My programming skills
 
 * Intermediate understanding of Python (~200 hours).
