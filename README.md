@@ -2,6 +2,8 @@
 
 My name is Paulo (AKA: TheS1lentArr0w) and I am fully committed to developing my Software Engineer career.
 
+I'm currently working as an IT Support Technician.
+
 I am a graduate with an MEng (Hons) in Chemical Engineering from the University of Manchester.
 
 <!--
