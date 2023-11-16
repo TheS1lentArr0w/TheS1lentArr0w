@@ -54,10 +54,11 @@ I have also embarked on [The Complete 2021 PHP Full Stack Web Developer Bootcamp
 * Beginner understanding of MATLAB.
   * Developed through University modules.
 
-## Past Projects
+## Past Projects (most recent first)
 
-* Milestone Project 1 (Python) - [Tic-Tac-Toe](https://github.com/TheS1lentArr0w/Milestone-Project-1) game.
+* Milestone Project 3 (Python) - [Giveaway Hunter](https://github.com/TheS1lentArr0w/Milestone-Project-3).
 * Milestone Project 2 (Python) - [BlackJack](https://github.com/TheS1lentArr0w/Milestone-Project-2) game.
+* Milestone Project 1 (Python) - [Tic-Tac-Toe](https://github.com/TheS1lentArr0w/Milestone-Project-1) game.
 
 <!-- Put in Udemy Milestone projects
 Maybe look into uploading code to GitHub
