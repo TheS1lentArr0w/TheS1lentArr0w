@@ -2,7 +2,7 @@
 
 My name is Paulo (AKA: TheS1lentArr0w) and I am fully committed to developing my Software Engineer career.
 
-I'm currently working as an IT Support Technician.
+I'm currently working as a Support Analyst.
 
 I am a graduate with an MEng (Hons) in Chemical Engineering from the University of Manchester.
 
@@ -34,11 +34,7 @@ The MERN Full Stack from [Full Stack Open](https://fullstackopen.com/en/). This 
 * Express
 * MongoDB
 
-This is my first exposure to the full stack. The course is also developing my Git and GitHub proficiency as the exercises are submitted through repositories ([my submissions](https://github.com/TheS1lentArr0w/full_stack_open)). 
-
-----
-
-I have also embarked on [The Complete 2021 PHP Full Stack Web Developer Bootcamp](https://www.udemy.com/course/the-complete-php-full-stack-web-developer-bootcamp/learn/lecture/15716836?start=0#overview). This is to give me insight on the full stack from a PHP side.
+This is my first exposure to a full stack. Check out [my submissions](https://github.com/TheS1lentArr0w/full_stack_open). 
 
 ----
 
@@ -59,7 +55,3 @@ I have also embarked on [The Complete 2021 PHP Full Stack Web Developer Bootcamp
 * Milestone Project 3 (Python) - [Giveaway Hunter](https://github.com/TheS1lentArr0w/Milestone-Project-3).
 * Milestone Project 2 (Python) - [BlackJack](https://github.com/TheS1lentArr0w/Milestone-Project-2) game.
 * Milestone Project 1 (Python) - [Tic-Tac-Toe](https://github.com/TheS1lentArr0w/Milestone-Project-1) game.
-
-<!-- Put in Udemy Milestone projects
-Maybe look into uploading code to GitHub
--->
