@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is Paulo (AKA: TheS1lentArr0w) and I am fully committed to developing my Software Engineer career.
+My name is Paulo (AKA: TheS1lentArr0w / He/Him) and I am fully committed to developing my Software Engineer career.
 
-I'm currently working as a Support Analyst.
+I'm currently working as a QA Engineer (see: [LinkedIn](https://www.linkedin.com/in/paulo-miguel-cruz/)).
 
 I am a graduate with an MEng (Hons) in Chemical Engineering from the University of Manchester.
 
@@ -21,24 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm currently learning ...
+## 🌱 I'm currently learning ...
 
-----
-
-The MERN Full Stack from [Full Stack Open](https://fullstackopen.com/en/). This includes:
-* HTML
-* CSS
-* JavaScript
-* React
-* Node.js
-* Express
-* MongoDB
-
-This is my first exposure to a full stack. Check out [my submissions](https://github.com/TheS1lentArr0w/full_stack_open). 
-
-----
+Go via a personal project (TBC).
 
 ## My programming skills
+
+* Playwright (TypeScript).
+
+* LAMP stack from my time as a Support Analyst.
 
 * Intermediate understanding of Python (~200 hours).
   * Finished [Udemy](https://www.udemy.com)'s course: [2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/).
